@@ -1,4 +1,4 @@
 - I'm a mechanical engineer turned into a passionate data analyst who is interested in business and finance. I graduated from Udacity Data Analysis Nanodegree Program.
 - My latest project was an exploratory data analysis for people's lifestyles data from gapminder using Python, Pandas, and Matplotlib.
-- Feel free to contact me via <a href="https://www.linkedin.com/in/abdlla3amer/">LinkedIn</a> for further information.
 - Additional skills: Tableau, SQL, NumPy, Seaborn.
+- Feel free to contact me via <a href="https://www.linkedin.com/in/abdlla3amer/">LinkedIn</a> for further information.
