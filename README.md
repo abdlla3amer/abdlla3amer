@@ -15,4 +15,4 @@ BI & Visualization: Tableau, Power BI, Matplotlib.
 Languages: German (B2), English (B2), Arabic (Native).
 Passionate about leveraging data to create value. Eager to bring my analytical mindset to the European market—let’s connect and collaborate!
 
-- Feel free to contact me via <a href="https://www.linkedin.com/in/abdlla3amer/">LinkedIn</a> for further information.
+Feel free to contact me via <a href="https://www.linkedin.com/in/abdlla3amer/">LinkedIn</a> for further information.
