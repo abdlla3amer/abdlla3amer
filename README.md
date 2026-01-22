@@ -2,8 +2,8 @@ Data Scientist | Bridging Engineering Precision with Business Insights
 Mechanical Engineer turned Data Analyst, specializing in Business and Finance. I combine engineering rigor with data-driven decision-making to solve complex challenges and drive actionable insights.
 Rapid Learner & Committed Professional:
 
-Earned 40+ NASBA-Certified CPE credits in Probability and Statistical Inference
-Currently completing a 60+ hour curriculum in Data Science (365 Data Science).
+Earned 69+ NASBA-Certified CPE credits in Probability and Statistical Inference
+Currently completing a 100+ hour curriculum in Data Science (365 Data Science).
 
 Key Credentials:
 Advanced Data Analysis Nanodegree (Udacity): Expertise in Python-based data wrangling and exploratory analysis.
