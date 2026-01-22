@@ -1,4 +1,4 @@
-Data Analyst | Bridging Engineering Precision with Business Insights
+Data Scientist | Bridging Engineering Precision with Business Insights
 Mechanical Engineer turned Data Analyst, specializing in Business and Finance. I combine engineering rigor with data-driven decision-making to solve complex challenges and drive actionable insights.
 Rapid Learner & Committed Professional:
 
