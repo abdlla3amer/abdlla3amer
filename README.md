@@ -1,18 +1,13 @@
 Data Scientist | Bridging Engineering Precision with Business Insights
-Mechanical Engineer turned Data Analyst, specializing in Business and Finance. I combine engineering rigor with data-driven decision-making to solve complex challenges and drive actionable insights.
-Rapid Learner & Committed Professional:
 
-Earned 69+ NASBA-Certified CPE credits in Probability and Statistical Inference
-Currently completing a 100+ hour curriculum in Data Science (365 Data Science).
+As a former Mechanical Engineer turned into a Data Analyst, I combine engineering rigor with data-driven decision-making to solve complex business challenges. I am a rapid learner committed to professional development, having earned over 80 NASBA-certified CPE credits in Statistics, Probability, Linear Algebra, Python, SQL, Machine Learning.and Deep Learning.
 
-Key Credentials:
-Advanced Data Analysis Nanodegree (Udacity): Expertise in Python-based data wrangling and exploratory analysis.
-End-to-End EDA Project: Analyzed global lifestyle trends (Gapminder dataset) using Python, Pandas, and Matplotlib.
-Technical Toolkit:
+My technical toolkit includes:  
+Analysis & Visualization: Tableau, Power BI, Looker Studio, Matplotlib, Seaborn and Excel.  
+Languages & Tools: Python (Pandas, NumPy, SKLearn, Tensorflow), SQL, and Power Query.
 
-Languages: Python (Pandas, NumPy, Seaborn), SQL, Power Query.
-BI & Visualization: Tableau, Power BI, Matplotlib.
-Languages: German (B2), English (B2), Arabic (Native).
-Passionate about leveraging data to create value. Eager to bring my analytical mindset to the European market—let’s connect and collaborate!
+Credentials:  
+Data Scientist Career Track from 365 Data Science (NASBA Certified).  
+Advanced Data Analysis Nanodegree from Udacity.
 
 Feel free to contact me via <a href="https://www.linkedin.com/in/abdlla3amer/">LinkedIn</a> for further information.
